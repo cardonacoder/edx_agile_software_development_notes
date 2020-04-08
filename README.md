@@ -27,7 +27,11 @@ Bertrand Meyer.
     - :computer: - :page_facing_up: :pencil2:
     - :couple: - :bookmark_tabs: :dollar:
     - :roller_coaster: - :memo: 
-2. Agile Methods or Methodologies
+2. Agile Methods or Methodologies (These are the methods that gained more attention )
+    - XP -> e**X**treme **P**rogramming 
+    - Lean software
+    - Crystal methodology
+    - **SCRUM**
 
 3. Agile principles
     1. :warning: :mount_fuji: > :green_heart: 👩‍💼 > :calendar: :loop: 👨‍💻 | High priority > Customer Satisfaction > Early & continous delivery of software.
@@ -42,7 +46,33 @@ Bertrand Meyer.
     10. 🔎 🧫 ⚗️ | Find the simplest solution.
     11. 🗃️ 👪 > 🥇 > 🏗️ , 📝, 🛍️ | Self-organized teams = Best = Arquitectures, requirements, designs
     12. :calendar: :loop: > 📈 | Regular intervarls = More effectiveness
+
+    ---
+
+    - Principles **one**, **three** and **seven** are redundants _Working software_
+    - Principles **three** and **twelve** are _practices_ not **principles**.
+    - Principles **Six**, **seven** and **ten** are _assertions_ not **principles**.
+    - Principle **ten** is wrong, because simplicity almost ever means less work. In fact, simplicity almost always means more work.
+
+    ---
+
+    _Perfection is reached, not when there is nothing more to add, but when there is no longer anything to remove_ -**Antonie de Saint-Exupéry**-
+
+    ---
+
 4. Agile values
+    Values are the general philosophy that underlines the agile approac and from values follow everythin else:
+
+            Values -> Principles -> Roles -> Artifacts -> Practices
+
+    They are more like a vision.
+
+    1. Reduced role for manager. For example, manager don´t assing task. The group itself assign tasks.
+    2. No big upfront steps
+            Do requirements and development as you go. No spent too much time in design, planning, etc.
+    3. Interactive development. Step by step development with short iterations
+    4. Limited negotiated scope. Only build functionality that is stictly needed
+    5. Focus on quality achieved through testing
 
 ## Vocabulary
 
