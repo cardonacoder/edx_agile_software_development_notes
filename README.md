@@ -27,7 +27,8 @@ Bertrand Meyer.
     - :computer: - :page_facing_up: :pencil2:
     - :couple: - :bookmark_tabs: :dollar:
     - :roller_coaster: - :memo: 
-2. Agile Methods
+2. Agile Methods or Methodologies
+
 3. Agile principles
     1. :warning: :mount_fuji: > :green_heart: 👩‍💼 > :calendar: :loop: 👨‍💻 | High priority > Customer Satisfaction > Early & continous delivery of software.
     2. :bow: 🔁 | Welcome Changes
